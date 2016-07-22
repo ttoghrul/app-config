@@ -8,3 +8,5 @@ logging:
   level:
     io:
       pivotal: DEBUG
+ribbon: # <---NEW SECTION
+  IsSecure: false
