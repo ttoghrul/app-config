@@ -7,7 +7,7 @@ management:
 logging: # <----New sections below
   level:
     io:
-      pivotal: DEBUG
+      pivotal: INFO
 greeting:
   displayFortune: true
 quoteServiceURL: http://quote-service-dev.cfapps.io/quote
